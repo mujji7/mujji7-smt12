@@ -1,0 +1,2 @@
+# mujji7-smt12
+&lt;!doctype html>&lt;title>Buildy&lt;/title>&lt;style>body{text-align:center;font:20px Arial}header,footer{padding:20px;background:#333;color:#fff}.hero{padding:100px 0;background:#666;color:#fff}button{padding:15px;background:#fa2}&lt;/style>&lt;header>BUILDY&lt;/header>&lt;main class=hero>&lt;h1>Construction&lt;/h1>&lt;button>Contact&lt;/button>&lt;/main>&lt;footer>© Buildy&lt;/footer>
