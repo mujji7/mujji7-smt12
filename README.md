@@ -1,2 +1,1 @@
-# mujji7-smt12
-<!doctype html><title>Buildy</title><style>body{text-align:center;font:20px Arial}header,footer{padding:20px;background:#333;color:#fff}.hero{padding:100px 0;background:#666;color:#fff}button{padding:15px;background:#fa2}</style><header>BUILDY</header><main class=hero><h1>Construction</h1><button>Contact</button></main><footer>© Buildy</footer>
+# 
